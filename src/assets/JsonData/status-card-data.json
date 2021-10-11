@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-news",
+        "count": "30%",
+        "title": "M1"
+    },
+    {
+        "icon": "bx bx-network-chart",
+        "count": "70%",
+        "title": "M2"
+    },
+    {
+        "icon": "bx bx-notification-off",
+        "count": "40%",
+        "title": "M3"
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "30%",
+        "title": "M4"
+    }
+]

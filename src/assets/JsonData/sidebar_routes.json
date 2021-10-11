@@ -1,0 +1,12 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Quản trị cảnh báo",
+        "route": "/customers",
+        "icon": "bx bx-cog"
+    }
+]
